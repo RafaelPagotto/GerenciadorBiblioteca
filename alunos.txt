@@ -1,0 +1,10 @@
+Joao Silva;2023001;2
+Maria Souza;2023002;0
+Carlos Lima;2023003;0
+Ana Paula;2023004;0
+Bruno Alves;2023005;0
+Fernanda Dias;2023006;0
+Lucas Rocha;2023007;0
+Patricia Melo;2023008;0
+Rafael Torres;2023009;0
+Juliana Costa;2023010;0

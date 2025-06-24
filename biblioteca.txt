@@ -1,0 +1,10 @@
+O Pequeno Principe;Antoine de Saint-Exupery;Emprestado;2023001;23/06/2025;30/06/2025
+Dom Casmurro;Machado de Assis;Emprestado;2023001;23/06/2025;30/06/2025
+Harry Potter e a Pedra Filosofal;J.K. Rowling;Disponivel;;;
+Senhor dos Aneis;J.R.R. Tolkien;Disponivel;;;
+Capitaes da Areia;Jorge Amado;Disponivel;;;
+O Hobbit;J.R.R. Tolkien;Disponivel;;;
+A Moreninha;Joaquim Manuel de Macedo;Disponivel;;;
+Memorias Postumas de Bras Cubas;Machado de Assis;Disponivel;;;
+O Cortico;Aluisio Azevedo;Disponivel;;;
+Iracema;Jose de Alencar;Disponivel;;;
